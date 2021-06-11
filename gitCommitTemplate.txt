@@ -1,0 +1,34 @@
+# <type>: <subject>
+
+
+# Body
+#
+# Fotter(Issue Tracker Number or URL)
+#
+# --- COMMIT END ---
+#
+# ------------------
+# Type can be
+#   feat    : new feature
+#   fix     : bug fix
+#   refactor: refactoring production code
+#   style   : formatting, missing semi colons, etc; no code change
+#   docs    : changes to documentation
+#   test    : adding or refactoring tests
+#             no productin code change
+#   chore   : updating grunt tasks etc
+#             no production code change
+# ------------------
+#
+# ------------------
+# Remember me ~
+#   Separate subject from body with a blank line
+#   Limit the subject line to 50 characters
+#   Capitalize the subject line
+#   Do not end the subject line with a period
+#   Use the imperative mood in the subject line
+#   Wrap the body at 72 characters
+#   Use the body to explain what and why vs. how
+#   Can use multiple lines with "-" for bullet points in body
+# ------------------
+#
